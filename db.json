@@ -1,0 +1,78 @@
+{
+  "data": {
+    "customer": {
+      "corporate": false,
+	"type_c": 1,
+      "email": "oprea_marius95@yahoo.com",
+      "name": "Oprea Marius",
+	"total_orders": 16,
+      "phones": [
+        "0769352090",
+        "",
+        ""
+      ],
+      "eos_id": 1731,
+      "company": {
+        "name": "Oprea Marius",
+        "fiscal_code": "",
+        "registration_number": "",
+        "id": 2606
+      }
+    },
+    "orders": [
+      {
+        "products": [
+          {
+            "order_product_id": 178514798,
+            "quantity": 1,
+            "type": 1,
+            "buyback": false,
+            "price": {
+              "total": 129.99,
+              "unit_price": 129.99
+            },
+            "product_id": 8782088,
+            "name": "Ventilator Albatros",
+            "currencyType": "RON",
+            "vat_rate": 0.19
+          },
+		  {
+            "order_product_id": 18421747,
+            "quantity": 1,
+            "type": 1,
+            "buyback": false,
+            "price": {
+              "total": 1249.99,
+              "unit_price": 1249.99
+            },
+            "product_id": 1435103,
+            "name": "Telefon mobil Samsung Galaxy A5",
+            "currencyType": "RON",
+            "vat_rate": 0.19
+          }
+        ],
+        "total": 1479.98,
+        "vendor_id": 1,
+		"vendor_name": "ProVendor",
+        "currencyType": "RON",
+        "delivery_mode": "CURIER RO",
+        "tracking_status": 6,
+        "status_id": 12,
+        "status_name": "Finished",
+		"deliveries": [
+          {
+            "total": 974.98,
+            "delivery_address": {
+              "locality": "Bucuresti",
+              "contact_name": "Madalina Sima",
+              "address": "soseaua Salaj, nr.351-353, bl.5, et.1, ap.13",
+              "contact_phone": "0740123741",
+              "postal_code": ""
+            }
+			}
+			]
+      }
+    ],
+    "reverse_vat": "Not eligible"
+  }
+}
