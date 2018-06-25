@@ -5,6 +5,17 @@
 	"type_c": 1,
       "email": "oprea_marius95@yahoo.com",
       "name": "Oprea Marius",
+	    "delivery_address": {
+              "locality": "Bucuresti",
+              "contact_name": "Madalina Sima",
+              "address": "soseaua Salaj, nr.351-353, bl.5, et.1, ap.13",
+		"street": "Splaiul Independentei",
+              "street_number": "351-353",
+		"bloc": "P5",
+              "contact_phone": "0740123741",
+              "postal_code": ""
+            
+			},
 	"total_orders": 16,
       "phones": [
         "0769352090",
@@ -58,19 +69,9 @@
         "delivery_mode": "CURIER RO",
         "tracking_status": 6,
         "status_id": 12,
-        "status_name": "Finished",
+        "status_name": "Finished"
           
-            "delivery_address": {
-              "locality": "Bucuresti",
-              "contact_name": "Madalina Sima",
-              "address": "soseaua Salaj, nr.351-353, bl.5, et.1, ap.13",
-		"street": "Splaiul Independentei",
-              "street_number": "351-353",
-		"bloc": "P5",
-              "contact_phone": "0740123741",
-              "postal_code": ""
             
-			}
 			
       }
     ],
