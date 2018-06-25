@@ -59,18 +59,19 @@
         "tracking_status": 6,
         "status_id": 12,
         "status_name": "Finished",
-		"deliveries": [
-          {
-            "total": 974.98,
+          
             "delivery_address": {
               "locality": "Bucuresti",
               "contact_name": "Madalina Sima",
               "address": "soseaua Salaj, nr.351-353, bl.5, et.1, ap.13",
+		"street": "Splaiul Independentei",
+              "street_number": "351-353",
+		"bloc": "P5",
               "contact_phone": "0740123741",
               "postal_code": ""
-            }
+            
 			}
-			]
+			
       }
     ],
     "reverse_vat": "Not eligible"
